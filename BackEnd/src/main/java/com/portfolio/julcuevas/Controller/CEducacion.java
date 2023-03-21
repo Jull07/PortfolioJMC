@@ -10,7 +10,7 @@ package com.portfolio.julcuevas.Controller;
  */
 import com.portfolio.julcuevas.Entity.Educacion;
 import com.portfolio.julcuevas.Security.Controller.Mensaje;
-import Dto.DtoEducacion;
+import com.portfolio.julcuevas.Dto.DtoEducacion;
 import com.portfolio.julcuevas.Security.SEducacion;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;

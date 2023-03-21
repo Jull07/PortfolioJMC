@@ -4,7 +4,7 @@
  */
 package com.portfolio.julcuevas.Controller;
 
-import Dto.dtohys;
+import com.portfolio.julcuevas.Dto.dtohys;
 import com.portfolio.julcuevas.Entity.hys;
 import com.portfolio.julcuevas.Security.Controller.Mensaje;
 import com.portfolio.julcuevas.Service.Shys;
